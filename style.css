@@ -1,0 +1,9 @@
+.like-button {
+    font-size: 24px;
+    color: gray;
+    cursor: pointer;
+    border: none;
+    background: none;
+}
+.liked {
+        color: red}
